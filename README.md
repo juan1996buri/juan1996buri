@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://programadorjb.ml](https://programadorjb.ml)
 
-- 📫 How to reach me **juan1996buri@gmail.com**
+- 📫 Asi puedes contactarme **juan1996buri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
