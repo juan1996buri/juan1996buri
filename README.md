@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, Yo soy Juan Buri</h1>
 <h3 align="center">Soy desarrollador full stack </h3>
+<img align="right" alt="Codificación" width="400" src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif"/>
 
 - 🔭 Actualmente estoy trabajando en **proyectos personales**
 
-- 🌱 Actualmente estoy aprendiendo **Ingles, TypeScript, Docker**
+- 🌱 Estoy aprendiendo **Ingles, TypeScript, Docker**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://programadorjb.ml](https://programadorjb.ml)
+- 👨‍💻 Algunos de mis proyectos están disponibles en [https://programadorjb.ml](https://programadorjb.ml)
 
 - 📫 Asi puedes contactarme **juan1996buri@gmail.com**
 
