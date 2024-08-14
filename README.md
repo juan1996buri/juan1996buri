@@ -6,7 +6,7 @@
 
 - 🌱 Estoy aprendiendo **Ingles, TypeScript, Docker**
 
-- 👨‍💻 Algunos de mis proyectos están disponibles en [https://programadorjb.ml](https://programadorjb.ml)
+- 👨‍💻 Algunos de mis proyectos están disponibles en [https://juan98buri.netlify.app](https://juan98buri.netlify.app)
 
 - 📫 Asi puedes contactarme **juan1996buri@gmail.com**
 
